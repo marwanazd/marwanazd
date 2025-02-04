@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Marwan Azdoud  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marwanazd&color=blue)
+![Unique Visitors](https://visitor-badge.laobi.icu/badge?page_id=marwanazd)
 
 
 **Passionate about AI, Machine Learning, and Embedded Systems!**  
