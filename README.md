@@ -78,4 +78,7 @@ src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" widt
 ---
 
 ## ⚡️ Where to find me
+
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:azdoudmarwan20@gmail.com)
+
 <p><a target="_blank" href="https://www.linkedin.com/in/marwanazdoud" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
