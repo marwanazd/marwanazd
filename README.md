@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marwanazd&color=blue)
 
-**Passionate about Embedded Systems, Electronics, Control, and Artificial Intelligence!**  
+**Passionate about Embedded Systems, Electronics, Control Systems, and Artificial Intelligence!**  
 
 Welcome to my GitHub! I'm a tech enthusiast specializing in developing intelligent solutions by combining software and hardware. My mission is to use cutting-edge technologies to tackle real-world challenges and make a positive impact.  
 
